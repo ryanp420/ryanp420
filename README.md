@@ -1,5 +1,6 @@
 
-# Hi I'm Ryan, a computer science student interested in software, cybersecurity and all things tech! 
+# Hi I'm Ryan 
+## I'm computer science student interested in software, cybersecurity and all things tech! 
 
 - 🌱 I’m currently learning about Flask & Django Web Frameworks, Data Structures and Algorithms
 - 👔 I’m looking for job oppritunities and internships! 
